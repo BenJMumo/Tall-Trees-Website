@@ -1,0 +1,22 @@
+{
+  "name": "tall-trees-website",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ben Mummery <benmummery93@googlemail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/BenJMumo/Tall-Trees-Website",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.5",
+    "angular-route": "^1.6.5"
+  }
+}
